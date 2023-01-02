@@ -90,10 +90,21 @@
 .TextBox93,
 .TextBox96,
 .TextBox99,
-.TextBox106 {
+.TextBox106,
+.TextBox146,
+.TextBox179,
+.TextBox186 {
     background-image: linear-gradient(108deg, #b16cea 8%, #ff5e69 40%, #ff8a56 77%, #ffa84b 91%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
+    letter-spacing: 3px;
+}
+
+.TextBox197 {
+    background-image: linear-gradient(108deg, #b16cea 8%, #ff5e69 40%, #ff8a56 77%, #ffa84b 91%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+
 }
 
 .Flex168 {
@@ -105,4 +116,21 @@
     position: relative;
     top: 120px;
     z-index: 999;
+}
+
+
+
+.TextBox147 {
+    line-height: 40px;
+}
+
+.Flex239,
+.Flex252,
+.Flex258,
+.Flex264,
+.Flex284,
+.Flex291 {
+    &:hover {
+        border-bottom: 1px black solid;
+    }
 }

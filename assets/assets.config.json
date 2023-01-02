@@ -46,5 +46,50 @@
   },
   "blogArrow.svg": {
     "mime": "image/svg+xml"
+  },
+  "gridPic1.png": {
+    "mime": "image/png"
+  },
+  "gridPic2.png": {
+    "mime": "image/png"
+  },
+  "gridPic3.png": {
+    "mime": "image/png"
+  },
+  "gridPic4.png": {
+    "mime": "image/png"
+  },
+  "trainingImg1.svg": {
+    "mime": "image/svg+xml"
+  },
+  "trainingImg2.svg": {
+    "mime": "image/svg+xml"
+  },
+  "trainingImg3.svg": {
+    "mime": "image/svg+xml"
+  },
+  "footerImg.jpg": {
+    "mime": "image/jpeg"
+  },
+  "inverted.svg": {
+    "mime": "image/svg+xml"
+  },
+  "footerArrow.svg": {
+    "mime": "image/svg+xml"
+  },
+  "footerarrowright.svg": {
+    "mime": "image/svg+xml"
+  },
+  "lineDownArrow.svg": {
+    "mime": "image/svg+xml"
+  },
+  "footerTitle.svg": {
+    "mime": "image/svg+xml"
+  },
+  "arrowDown.svg": {
+    "mime": "image/svg+xml"
+  },
+  "ArrowRight.svg": {
+    "mime": "image/svg+xml"
   }
 }
